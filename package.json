@@ -1,0 +1,16 @@
+{
+  "name": "stream.gift-vod-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:vps": "node ./src/vps.js",
+    "test:upload": "node ./src/upload.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "request": "^2.88.2"
+  }
+}
