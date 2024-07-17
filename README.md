@@ -14,3 +14,5 @@ The steps are as follows:
 
 Furthermore, we are looking to integrate further with Theta Edge Cloud's services, as we have been experimenting with
 NVENC encoding which can be used to process our videos. 
+
+We also utilize the open source tool  [yt-dlp](https://github.com/yt-dlp/yt-dlp) for downloading VODs 
