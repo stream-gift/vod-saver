@@ -10,7 +10,16 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
     "dotenv": "^16.4.5",
-    "request": "^2.88.2"
+    "express": "^4.19.2",
+    "ffmpeg": "^0.0.4",
+    "gm": "^1.25.0",
+    "log-timestamp": "^0.3.0",
+    "request": "^2.88.2",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7",
+    "zod": "^3.23.8"
   }
 }
